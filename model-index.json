@@ -1,0 +1,9 @@
+[
+  {
+    "name": "SAMPLE",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "SAMPLE.gltf",
+  }
+  }
+  ]
